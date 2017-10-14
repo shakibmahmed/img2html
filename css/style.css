@@ -7,7 +7,7 @@
 .header {
     width: 100%;
     background-color: #262626;
-    height: 84px;
+    min-height: 84px;
 }
 
 .wrapper {
@@ -56,7 +56,7 @@
     color: #FF6760
 }
 
-.slider { width: 100%; background-color: #2A2A2A; height: 398px;  }
+.slider { width: 100%; background-color: #2A2A2A; min-height: 398px;  }
 
 .slider .wrapper h1 {    font-size: 48px;
     color: #D9D9D9;
